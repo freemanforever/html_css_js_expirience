@@ -29,6 +29,7 @@ h1 {
     width: 33%;
     text-align: center;
     padding: 5px;
+    min-width: 125px;
 }
 
 .beef {
